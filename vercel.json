@@ -1,0 +1,3 @@
+{
+  "redirects": [{ "source": "/index.js", "destination": "/html.html" }]
+}
